@@ -1,5 +1,5 @@
 
 public class Primera {
-		int tres;
-		int cuatro;
+		int uno;
+		int cinco;
 	}
